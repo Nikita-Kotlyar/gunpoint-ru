@@ -1,0 +1,27 @@
+# Game files / proprietary data
+Test_Build/
+Test_Build_Patch/
+03_Extracted/
+04_Screenshots/
+*.wad
+*.pdb
+*.orig
+*.gun
+*.bak
+*.dll
+*.lib
+
+# Patcher build outputs
+patcher/target/
+patcher/dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
